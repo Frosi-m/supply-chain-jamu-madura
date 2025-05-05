@@ -1,0 +1,14 @@
+{
+    "name": "scjm/rosi",
+    "description": "tugas_pmpl",
+    "require": {
+        "monolog/monolog": "^3.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rosi"
+        }
+    ],
+    "minimum-stability": "stable"
+}
