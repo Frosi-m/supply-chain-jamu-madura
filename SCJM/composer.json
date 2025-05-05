@@ -2,7 +2,8 @@
     "name": "scjm/rosi",
     "description": "tugas_pmpl",
     "require": {
-        "monolog/monolog": "^3.9"
+        "monolog/monolog": "^3.9",
+        "php": "^8.1"
     },
     "license": "MIT",
     "authors": [
